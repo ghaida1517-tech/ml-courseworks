@@ -24,8 +24,13 @@ notebooks/
 └── results/
 
 
+
 ## 🧰 Tools
 `Python` • `scikit-learn` • `pandas` • `matplotlib` • `seaborn`
+
+## 🧩 Example Output
+![Confusion Matrix](assets/confusion_matrix.png)
+*(Add your own result image later here)*
 
 ## 📄 License
 MIT License
