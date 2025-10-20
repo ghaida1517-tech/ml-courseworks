@@ -15,3 +15,17 @@ A collection of **educational ML projects** built during the Machine Learning co
 - Write clear, reproducible notebooks with comments and results
 
 ## 📂 Structure
+
+\
+notebooks/
+├── regression.ipynb
+├── classification.ipynb
+├── preprocessing.ipynb
+└── results/
+
+
+## 🧰 Tools
+`Python` • `scikit-learn` • `pandas` • `matplotlib` • `seaborn`
+
+## 📄 License
+MIT License
